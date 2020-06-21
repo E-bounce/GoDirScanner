@@ -1,3 +1,7 @@
+# Project
+
+自制利用`Golang`实现简单的目录扫描器
+
 # Install
 
 如果你的本地有`Golang`语言环境，可以直接
